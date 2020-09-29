@@ -4,7 +4,13 @@ body {
 	text-align: center;
 }
 
+p {
+	font-size: 23px;
+}
+
 button {
+	font-size: 22px;
 	background-color: #00d0ff;
 	padding: 20px 100px;
+	font-weight: bold;
 }
