@@ -1,1 +1,10 @@
 @charset "utf-8";
+
+body {
+	text-align: center;
+}
+
+button {
+	background-color: #00d0ff;
+	padding: 20px 100px;
+}
